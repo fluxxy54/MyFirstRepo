@@ -1,0 +1,4 @@
+My name is Youssef Amr, a 19-year-old Computer Science student with a strong passion for technology, leadership, and social impact. I specialize in web development, with hands-on experience in building responsive, user-friendly applications using HTML, CSS, Bootstrap, C#, and Blazor. I’m also a volunteer graphic designer at an Islamic center, where I use visual design to communicate ideas and support community engagement.
+
+Beyond coding and design, my mission is to bridge the digital divide by creating scalable, accessible educational platforms, especially in Africa. I believe that technology, when used responsibly, can empower individuals and drive meaningful change. I'm constantly seeking new knowledge and opportunities to grow, lead, and contribute to a better future.
+
